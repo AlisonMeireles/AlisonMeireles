@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alison Meireles
 
-- 🎓 Estudando HTML,CSS e Javascript
+- 🎓 Estudando Data Science
 <div style="display: flex"><br>
   <a href="https://github.com/AlisonMeireles">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alisonmeireles&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
