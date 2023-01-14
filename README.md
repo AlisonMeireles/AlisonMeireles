@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alison Meireles
 
-- 🎓 Software engineer
-- ⚔️ Java + Spring Boot
+- 🎓 Data Science and Machine Learning
+- ⚔️ Python
 
 <div align="center">
   <a href="https://github.com/AlisonMeireles">
